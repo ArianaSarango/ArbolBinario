@@ -140,6 +140,5 @@ public class ArbolBinario {
     }
 
     public void balancear() {
-        // Implementar lógica de balanceo si es necesario
     }
 }

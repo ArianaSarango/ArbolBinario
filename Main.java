@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        // Ejemplo de uso del árbol simple
+
 
         ArbolSimple arbol = new ArbolSimple();
         arbol.insertarNodo(5);
@@ -8,7 +8,6 @@ public class Main {
         arbol.insertarNodo(7);
         arbol.imprimirInorden();
 
-        // Ejemplo de uso del grafo
 
         Grafo grafo = new Grafo();
         Nodo nodo1 = new Nodo(1);
