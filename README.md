@@ -1,8 +1,10 @@
 # ArbolBinario
 
+ESTRUCTURA DE DATOS
+
 Integrantes:
 
-Nathaly Nikool Camacho Ordoñez, 
+Nathaly Nikooll Camacho Ordoñez, 
 Ariana Sophía Sarango Tandazo
 
 Ciclo:
