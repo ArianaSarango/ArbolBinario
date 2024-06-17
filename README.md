@@ -28,5 +28,11 @@ Generar un diagrama uml y código en Jaba con las siguientes características:
     En el caso de los arboles genere recorridos en orden, postorden y preorden, en todas las demas presente de acuerdo al orden de inserción.
     
     En todas las estructuras se pueda agregar, insertar y eliminar
+
+
     
-    Incrementar grafo.
+    Incrementar grafo.![ArbolBinario(4)](https://github.com/ArianaSarango/ArbolBinario/assets/166524335/faeea3aa-7677-4b49-a495-185017fa1364)
+
+
+
+    
