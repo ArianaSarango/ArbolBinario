@@ -31,8 +31,10 @@ Generar un diagrama uml y código en Jaba con las siguientes características:
 
 
     
-    Incrementar grafo.![ArbolBinario(4)](https://github.com/ArianaSarango/ArbolBinario/assets/166524335/faeea3aa-7677-4b49-a495-185017fa1364)
+    
 
 
 
     
+![ArbolBinario(4)](https://github.com/ArianaSarango/ArbolBinario/assets/166524335/81087a17-faa0-4107-9005-be3a36fd30ca)
+
