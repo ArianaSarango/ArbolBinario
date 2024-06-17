@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-17T21:17:29.476Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="U2_BPvsZL_Pul2dTRIXl" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-17T23:18:52.190Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="ND3KdBtF6Lm06lA8eXT1" version="24.5.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1018" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -341,6 +341,12 @@
         </mxCell>
         <mxCell id="sY8AVSWqJ0E1FJbMpZcZ-11" value="+ agregarNodo(dato)&lt;div&gt;+ agregarArista((nodo1: Nodo, nodo2: Nodo)&lt;/div&gt;&lt;div&gt;+ eliminarNodo(dato)&lt;/div&gt;&lt;div&gt;+ eliminarArista(nodo1: Nodo, nodo2: Nodo)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="sY8AVSWqJ0E1FJbMpZcZ-8">
           <mxGeometry y="88" width="270" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="sY8AVSWqJ0E1FJbMpZcZ-12" value="0..1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="84" y="220" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sY8AVSWqJ0E1FJbMpZcZ-13" value="0..1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="218" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
