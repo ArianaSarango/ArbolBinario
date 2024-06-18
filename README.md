@@ -59,7 +59,7 @@ _Listas_
 
 _Árboles_
 
-* **ArbolAVL:** Extiende ArbolBinario con implementación específica para árboles AVL. 
+* **ArbolAVL:** Extiende ArbolBinario con implementación específica para árboles AVL.
 * **ArbolRojoNegro:** Extiende ArbolBinario con implementación específica para árboles Rojo-Negro.
 
 _Grafo_
