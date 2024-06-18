@@ -12,7 +12,7 @@ Ciclo:
 Segundo "A"
 
 
-Generar un diagrama uml y código en Jaba con las siguientes características:
+Generar un diagrama uml y código en Java con las siguientes características:
 
 
     Arboles binarios (AVL y Rojo Negro).
