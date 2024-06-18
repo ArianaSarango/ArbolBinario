@@ -1,17 +1,12 @@
-public class Nodo {int dato;
-    Nodo izquierda, derecha;
+public abstract class Nodo {
+    protected int dato;
+    protected Color color;
 
-    public Nodo(int item) {
-        dato = item;
-        izquierda = derecha = null;
-    }
-
-    public int obtenerDato() {
+    public int getDato() {
         return dato;
     }
 
-    public void establecerDato(int dato) {
+    public void setDato(int dato) {
         this.dato = dato;
     }
 }
-

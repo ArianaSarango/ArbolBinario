@@ -1,10 +1,11 @@
-public class NodoSimple extends Nodo{
-    Nodo izquierda;
-    Nodo derecha;
+public class NodoSimple extends Nodo {
+    private NodoSimple siguiente;
 
-    public NodoSimple(int item) {
-        super(item);
-        this.izquierda = null;
-        this.derecha = null;
+    public NodoSimple getSiguiente() {
+        return siguiente;
+    }
+
+    public void setSiguiente(NodoSimple siguiente) {
+        this.siguiente = siguiente;
     }
 }

@@ -1,6 +1,5 @@
 public class ListaCircularSimple extends ListaEnlazadaSimple {
-    public ListaCircularSimple() {
-        super();
+    @Override
+    public void recorrer() {
     }
 }
-

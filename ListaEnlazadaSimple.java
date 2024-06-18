@@ -1,20 +1,13 @@
-public class ListaEnlazadaSimple {
-    protected Nodo cabeza;
-
-    public ListaEnlazadaSimple() {
-        cabeza = null;
-    }
-
+public class ListaEnlazadaSimple extends Lista {
+    @Override
     public void recorrer() {
-        Nodo actual = cabeza;
-        while (actual != null) {
-            System.out.print(actual.dato + " ");
-            actual = actual.derecha;
-        }
+        // Implementación del método recorrer para lista enlazada simple
     }
 
-    public void imprimirLista() {
-        recorrer();
+    @Override
+    public void vaciar() {
+        cabeza = null;
+        cola = null;
+        tamaño = 0;
     }
 }
-

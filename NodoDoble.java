@@ -1,11 +1,20 @@
 public class NodoDoble extends Nodo {
-    NodoDoble siguiente;
-    NodoDoble anterior;
+    private NodoDoble siguiente;
+    private NodoDoble anterior;
 
-    public NodoDoble(int item) {
-        super(item);
-        this.siguiente = null;
-        this.anterior = null;
+    public NodoDoble getSiguiente() {
+        return siguiente;
+    }
+
+    public void setSiguiente(NodoDoble siguiente) {
+        this.siguiente = siguiente;
+    }
+
+    public NodoDoble getAnterior() {
+        return anterior;
+    }
+
+    public void setAnterior(NodoDoble anterior) {
+        this.anterior = anterior;
     }
 }
-
